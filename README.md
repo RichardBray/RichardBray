@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**RichardBray/RichardBray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Richard Oliver Bray a front end developer currently working at [Octopus](https://octopusgroup.com/). I love learning new techniques languages and trying out new tools. I'm currently enjoying the [Haxe](https://haxe.org/) programming languages and making games in [HaxeFlixel](https://haxeflixel.com/).
 
-Here are some ideas to get you started:
+### Me around the web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📹 My programming videos [Youtube channel](https://www.youtube.com/c/RichardBray)
+- ✍🏾 Writing about web development on[ Medium](https://medium.com/@richbray)
+- 🕹 Writings about game development on [Dev.to](https://dev.to/richardbray)
+- 👾 Play some of the games I've made on [Itch.io](https://hellolightbulb.itch.io/)
+- 🎓 Learn something form my [Udemy courses](https://www.udemy.com/user/richard-bray/)
+- 📸 Loom at my photos on [Unsplash](https://unsplash.com/@hellolightbulb)
+- 🐦 Follow me on [Twitter](https://twitter.com/Ceiga)
+
