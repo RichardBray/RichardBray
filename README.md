@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Richard Oliver Bray a web and ga,e developer. I love learning new techniques languages and trying out new tools. I'm currently enjoying the [Haxe](https://haxe.org/) programming languages and making games in [HaxeFlixel](https://haxeflixel.com/).
+I'm Richard Oliver Bray a web and game developer. I love learning new technologies, programming languages and trying out new tools. I'm currently enjoying the [Haxe](https://haxe.org/) and [Rust](https://www.rust-lang.org/) programming languages as well as making games in [HaxeFlixel](https://haxeflixel.com/).
 
 ### Me around the web
 
