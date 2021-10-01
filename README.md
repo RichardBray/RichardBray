@@ -9,7 +9,7 @@ I'm Richard Oliver Bray a web and game developer. I love learning new technologi
 - 🕹 Writings about game development on [Dev.to](https://dev.to/richardbray)
 - 👾 Play some of the games I've made on [Itch.io](https://hellolightbulb.itch.io/)
 - 🎓 Learn something form my [Udemy courses](https://www.udemy.com/user/richard-bray/)
-- 📸 Loom at my photos on [Unsplash](https://unsplash.com/@hellolightbulb)
+- 📸 Look at my photos on [Unsplash](https://unsplash.com/@hellolightbulb)
 - 🐦 Follow me on [Twitter](https://twitter.com/Ceiga)
 
 ### Some code related stats
