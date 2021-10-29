@@ -15,5 +15,5 @@ I'm Richard Oliver Bray a web and game developer. I love learning new technologi
 ### Some code related stats
 
 [![Richard Brays GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardBray&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardBray&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardBray&layout=compact&hide=css,html,scss)](https://github.com/anuraghazra/github-readme-stats)
 
